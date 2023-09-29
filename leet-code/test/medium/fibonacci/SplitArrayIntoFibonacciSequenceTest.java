@@ -1,4 +1,4 @@
-package medium;
+package medium.fibonacci;
 
 import medium.fibonacci.SplitArrayIntoFibonacciSequence;
 import org.junit.Assert;

@@ -1,4 +1,4 @@
-package medium;
+package medium.fibonacci;
 
 import medium.fibonacci.AdditiveNumber;
 import org.junit.jupiter.api.Test;
